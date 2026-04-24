@@ -1,4 +1,4 @@
-## Oi eu sou o Nimar Junior, obrigado por visitar meu perfil 👋
+## Nimar Junior, obrigado por visitar meu perfil 👋
 
 <p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
