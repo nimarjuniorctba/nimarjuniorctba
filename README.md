@@ -10,7 +10,7 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-plain.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg">
 </p>
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh6ZmNjcDJwb2l5b2c3ejZrYzg5a2YwbGc3dXliM2dkc3g5Zjh5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1Y4hycJBVTC8/giphy.gif">
 <p align="center"> 
   <a href="https://www.youtube.com/@BoaManoCtba" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jnimar7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
