@@ -1,4 +1,4 @@
-<h2 align="center">Nimar Junior, fica a vontade pra copiar 👋</h2>
+<h2 align="center">Fica a vontade pra copiar 👋</h2>
 
 <p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
